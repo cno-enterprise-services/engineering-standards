@@ -1,4 +1,4 @@
-# Engineering Team Standards & RFC Process
+# Enterprise Services Engineering Standards
 
 Our team follows a consistent set of practices to ensure quality, collaboration, and maintainability across all projects. These standards apply to all engineers and contributors, regardless of role or urgency.
 
