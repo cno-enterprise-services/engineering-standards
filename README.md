@@ -29,7 +29,7 @@ A decision-maker is clearly named.
 Every RFC has a revisit date to reflect on results.
 
 
-RFCs and diagrams must be stored in GitHub under docs/rfcs/.
+RFCs and diagrams must be stored in GitHub.
 
 Approval of an RFC signals that serious work may begin.
 
